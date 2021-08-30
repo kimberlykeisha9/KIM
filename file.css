@@ -20,6 +20,11 @@ svg {
   flex-grow: 1; 
 }
 
+audio {
+  height: 30pt;
+  width: 60%;
+}
+
 /* Control the left side */
 .left {
   overflow: auto;
@@ -37,11 +42,6 @@ p {
   font-size: 12pt;
   font-family: 'Darker Grotesque', sans-serif;
   color: white;
-}
-
-audio {
-  height: 30pt;
-  width: 60%;
 }
 
 /* Control the right side */
